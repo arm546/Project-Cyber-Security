@@ -1,4 +1,4 @@
 # Project-Cyber-Security
-GUI-Based-OTP-Verification-System-Using-Python-main
 
 โปรเจกต์รายวิชา ความมั่นคงทางไซเบอร์
+ทำการยืนยันตัวตนแบบ การยืนยันแบบ 2 ขั้นตอน ด้วยการส่ง OTP ผ่าน Gmail และ Discord 
